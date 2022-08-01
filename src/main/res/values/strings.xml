@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Comono Library</string>
+    <!-- Strings related to Library -->
+    <string name="prompt_customerName">Customer Name</string>
+    <string name="prompt_address">Address</string>
+    <string name="action_proceed">Proceed</string>
+    <string name="action_proceed_short">Proceed</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_customerName">Invalid name</string>
+    <string name="invalid_address">Invalid address</string>
+    <string name="proceed_failed">"Verification failed"</string>
+</resources>
